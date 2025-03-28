@@ -110,8 +110,4 @@ Below are few snapshots of application in use:
 To run this application firstly execute `python app.py`, after which the flask built-in server would start hosting the application at localhost i.e.
 `http://127.0.0.1:5000/`
 
-## Contact
 
-Raj Praveen Pradhan - [LinkedIn](https://in.linkedin.com/in/raj-praveen-pradhan-306625101)
-
-Kaggle Kernel: [https://www.kaggle.com/rajpraveenpradhan/keras-based-cnn-model-for-pneumonia-detection](https://www.kaggle.com/rajpraveenpradhan/keras-based-cnn-model-for-pneumonia-detection)
