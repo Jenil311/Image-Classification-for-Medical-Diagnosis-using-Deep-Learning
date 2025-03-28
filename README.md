@@ -1,9 +1,3 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/rppradhan08/pneumonia-detection)
-![GitHub forks](https://img.shields.io/github/forks/rppradhan08/pneumonia-detection?color=green)
-![contributors-shield](https://img.shields.io/github/contributors/rppradhan08/pneumonia-detection)
-[![LinkedIn][linkedin-shield]](https://in.linkedin.com/in/raj-praveen-pradhan-306625101)
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 
 <!-- PROJECT LOGO -->
 <br />
