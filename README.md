@@ -1,37 +1,4 @@
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/rppradhan08/pneumonia-detection">
-    <img src="https://raw.githubusercontent.com/rppradhan08/pneumonia-detection/master/images/logo.PNG" alt="Logo" width="200px" height="100px">
-  </a>
-
-  <p align="center">
-    Pneumonia Detection using CNN
-    <br />
-    <a href="https://github.com/rppradhan08/pneumonia-detection"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/rppradhan08/pneumonia-detection">View Demo</a>
-    ·
-    <a href="https://github.com/rppradhan08/pneumonia-detection/issues">Report Bug</a>
-  </p>
-</p>
-
-<!-- TABLE OF CONTENTS -->
-
-## Table of Contents
-
-- [Table of Contents](#table-of-contents)
-- [About The Project](#about-the-project)
-  - [Steps involved](#steps-involved)
-  - [Tools used](#tools-used)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
-  - [Data Analysis and Model Building](#data-analysis-and-model-building)
-  - [Application Development](#application-development)
-- [Usage](#usage)
-- [Contact](#contact)
 
 <!-- ABOUT THE PROJECT -->
 
